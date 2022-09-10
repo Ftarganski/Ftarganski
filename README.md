@@ -1,9 +1,4 @@
-[![](linkedin151.svg)](https://www.linkedin.com/in/targanski)
-[![](behance150.svg)](https://www.behance.net/ftarganski)
-[![](whatsapp150.svg)](https://api.whatsapp.com/send?phone=5548988222992)
-
-
-## Hi there 👋
+## Hello World 👋
 
 On the way to completing my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.
 
@@ -17,9 +12,8 @@ I am looking for new job opportunities where I can more dynamically explore the 
 
 If you are ready to work with a talented team player, please contact me 💬.
 
-=========================
 
-### Olá 👋
+## Olá 👋
 
 Em vias de concluir minha especialização como Desenvolvedor Web Full Stack, com graduação em Arquitetura e Urbanismo, possuo mais de dez anos de experiência em multinacionais, com forte conhecimento da cultura corporativa.
 
@@ -32,6 +26,19 @@ O principal diferencial de qualquer empresa são seus funcionários. Mais import
 Busco novas oportunidades de trabalho onde eu possa explorar com mais dinamismo o conhecimento adquirido nos últimos anos. Estou sempre disposto a novos desafios, trabalhando com flexibilidade e entusiasmo.
 
 Se você está pronto para trabalhar com um profissional talentoso, entre em contato comigo 💬.
+
+
+## Languages & Tools
+![](html.svg)
+![](css.svg)
+![](javascript.svg)
+![](bootstrap.svg)
+![](react.svg)
+![](node.svg)
+
+
+## Contact
+[![](linkedin2.svg)](https://www.linkedin.com/in/targanski) [![](behance2.svg)](https://www.behance.net/ftarganski) [![](whatsapp2.svg)](https://api.whatsapp.com/send?phone=5548988222992) [![](email2.svg)](mailto:francis@targanski.com)
 
 
 <!--

@@ -1,4 +1,4 @@
-[![](linkedin150.svg)](https://www.linkedin.com/in/targanski)
+[![](linkedin151.svg)](https://www.linkedin.com/in/targanski)
 [![](behance150.svg)](https://www.behance.net/ftarganski)
 [![](whatsapp150.svg)](https://api.whatsapp.com/send?phone=5548988222992)
 

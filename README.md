@@ -29,9 +29,9 @@ Busco novas oportunidades de trabalho onde eu possa explorar com mais dinamismo 
 Se você está pronto para trabalhar com um profissional talentoso, entre em contato comigo 💬.
 
 
-[Linkedin](https://www.linkedin.com/in/targanski){:target="_blank" rel="noopener"} 
+[Linkedin](https://www.linkedin.com/in/targanski {:target="_blank" rel="noopener"})
 
-[Whatsapp](https://api.whatsapp.com/send?phone=5548988222992){:target="_blank" rel="noopener"}
+[Whatsapp](https://api.whatsapp.com/send?phone=5548988222992 {:target="_blank" rel="noopener"})
 
 
 

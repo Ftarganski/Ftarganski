@@ -1,8 +1,6 @@
-[![](linkedin.svg)](https://www.linkedin.com/in/targanski)
-
-[![](behance200.svg)](https://www.linkedin.com/in/targanski)
-
-[![](whatsapp150.svg)](https://www.linkedin.com/in/targanski)
+[![](linkedin150.svg)](https://www.linkedin.com/in/targanski)
+[![](behance150.svg)](https://www.behance.net/ftarganski)
+[![](whatsapp150.svg)](https://api.whatsapp.com/send?phone=5548988222992)
 
 
 ## Hi there 👋
@@ -34,12 +32,6 @@ O principal diferencial de qualquer empresa são seus funcionários. Mais import
 Busco novas oportunidades de trabalho onde eu possa explorar com mais dinamismo o conhecimento adquirido nos últimos anos. Estou sempre disposto a novos desafios, trabalhando com flexibilidade e entusiasmo.
 
 Se você está pronto para trabalhar com um profissional talentoso, entre em contato comigo 💬.
-
-
-[Linkedin](https://www.linkedin.com/in/targanski)
-
-[Whatsapp](https://api.whatsapp.com/send?phone=5548988222992)
-
 
 
 <!--

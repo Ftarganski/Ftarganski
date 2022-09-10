@@ -10,8 +10,9 @@ The main differentiator at any company is it’s employees. Most importantly it 
 
 I am looking for new job opportunities where I can more dynamically explore the knowledge acquired in recent years. I am always ready for new challenges, working with flexibility and enthusiasm.
 
+```
 If you are ready to work with a talented team player, please contact me 💬.
-
+```
 
 ## Olá 👋
 
@@ -25,7 +26,9 @@ O principal diferencial de qualquer empresa são seus funcionários. Mais import
 
 Busco novas oportunidades de trabalho onde eu possa explorar com mais dinamismo o conhecimento adquirido nos últimos anos. Estou sempre disposto a novos desafios, trabalhando com flexibilidade e entusiasmo.
 
+```
 Se você está pronto para trabalhar com um profissional talentoso, entre em contato comigo 💬.
+```
 
 
 ## Languages & Tools

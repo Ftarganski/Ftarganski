@@ -1,4 +1,7 @@
-### Hi there 👋
+[![](linkedin.svg)](https://www.linkedin.com/in/targanski)
+
+
+## Hi there 👋
 
 On the way to completing my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.
 

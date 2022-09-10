@@ -14,22 +14,6 @@ I am looking for new job opportunities where I can more dynamically explore the 
 If you are ready to work with a talented team player, please contact me 💬.
 ```
 
-## Olá 👋
-
-Em vias de concluir minha especialização como Desenvolvedor Web Full Stack, com graduação em Arquitetura e Urbanismo, possuo mais de dez anos de experiência em multinacionais, com forte conhecimento da cultura corporativa.
-
-Em minha carreira profissional atuei tanto em cargos de gestão de projetos quanto em cargos de gestão de pessoas, tendo alcançado resultados relevantes para as empresas por onde passei. 
-
-Minha formação técnica e minha vivência profissional me qualificam para entender as nuances e responsabilidades que o cargo ora ofertado exige. Some-se a isto minha experiência pessoal, de pai, viajante e empreendedor, momentos da vida no qual adquiri conhecimentos que não são ensinados na cátedra, conhecimentos de raro valor.
-
-O principal diferencial de qualquer empresa são seus funcionários. Mais importante, é preciso pessoas que possam prosperar, funcionar e se destacar em um mercado global. Eu tenho essas qualidades.
-
-Busco novas oportunidades de trabalho onde eu possa explorar com mais dinamismo o conhecimento adquirido nos últimos anos. Estou sempre disposto a novos desafios, trabalhando com flexibilidade e entusiasmo.
-
-```
-Se você está pronto para trabalhar com um profissional talentoso, entre em contato comigo 💬.
-```
-
 
 ## Languages & Tools
 ![](html.svg)
@@ -45,12 +29,7 @@ Se você está pronto para trabalhar com um profissional talentoso, entre em con
 
 
 <!--
-**Ftarganski/Ftarganski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Alt text](/posts/path/to/img.jpg "Optional title")
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -59,6 +38,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-  
--->
+ -->

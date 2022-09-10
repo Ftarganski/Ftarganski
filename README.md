@@ -1,5 +1,9 @@
 [![](linkedin.svg)](https://www.linkedin.com/in/targanski)
 
+[![](behance200.svg)](https://www.linkedin.com/in/targanski)
+
+[![](whatsapp150.svg)](https://www.linkedin.com/in/targanski)
+
 
 ## Hi there 👋
 

@@ -28,8 +28,17 @@ Busco novas oportunidades de trabalho onde eu possa explorar com mais dinamismo 
 
 Se você está pronto para trabalhar com um profissional talentoso, entre em contato comigo 💬.
 
+
+[Linkedin](https://www.linkedin.com/in/targanski){:target="_blank" rel="noopener"} 
+
+[Whatsapp](https://api.whatsapp.com/send?phone=5548988222992){:target="_blank" rel="noopener"}
+
+
+
 <!--
 **Ftarganski/Ftarganski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Alt text](/posts/path/to/img.jpg "Optional title")
 
 Here are some ideas to get you started:
 
@@ -42,12 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <a href="https://www.linkedin.com/in/targanski" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-  <a href="https://github.com/Ftarganski" target="_blank"><i class="fa-brands fa-github"></i></a>
-  <a href="https://www.instagram.com/ftarganski" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-  <a href="https://www.youtube.com/c/PedalFloripaMTB?sub_confirmation=1" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-  <a href="https://twitter.com/ftarganski" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-  <a href="https://www.facebook.com/ftarganski" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-  <a href="mailto:francis@targanski.com" target="_blank"><i class="fa-solid fa-at"></i></a>
-  <a href="https://api.whatsapp.com/send?phone=5548988222992" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+  
 -->

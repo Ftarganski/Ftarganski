@@ -1,11 +1,6 @@
 
 ![Profile View](https://komarev.com/ghpvc/?username=Ftarganski&color=brightgreen&style=flat) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fftarganski1212%2Fhit-counter) ![License](https://img.shields.io/github/license/Ftarganski/github-profile-views-counter.svg?style=flat&color=brightgreen)
 
-![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/master?label=Last%20Updated&style=flat)
-
-![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)
-
-
 ## Hey Folks! 👋                                
 
 On the way to completing my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.
@@ -22,7 +17,7 @@ I am looking for new job opportunities where I can more dynamically explore the 
 If you are ready to work with a talented team player, please contact me 💬.
 ```
 
-## Languages & Tools
+## My Toolbox
 ![](html.svg)
 ![](css.svg)
 ![](javascript.svg)
@@ -53,5 +48,7 @@ Ideias:
 ![Issues](https://img.shields.io/github/issues-pr/ftarganski/github-readme-stats?color=0088ff)
 ![Issues](https://img.shields.io/github/issues/ftarganski/github-readme-stats?color=0088ff)
 ![Codecov](https://codecov.io/gh/ftarganski/github-readme-stats/branch/master/graph/badge.svg)
+
+![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/master?label=Last%20Updated&style=flat)
 
  -->

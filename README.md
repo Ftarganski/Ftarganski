@@ -7,7 +7,7 @@ On the way to completing my Postgraduate Degree as a Full Stack Web Developer, w
 
 In my professional career, I worked both in project management positions and in people management positions, having achieved relevant results for the companies I worked for.
 
-My technical training and professional experience qualify me to understand the nuances and responsibilities that the position now offered requires. Added to this is my personal experience as a father, traveler and entrepreneur, moments in life in which I acquired knowledge that is not taught in the chair, knowledge of rare value.
+My technical training and professional experience qualify me to understand the nuances and responsibilities that the IT world requires. Added to this is my personal experience as a father, traveler and entrepreneur, moments in life in which I acquired knowledge that is not taught in the chair, knowledge of rare value.
 
 The main differentiator at any company is it’s employees. Most importantly it takes team players who can thrive, function and excel in a global market. I have these qualities.
 

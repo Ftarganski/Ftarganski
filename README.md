@@ -1,6 +1,9 @@
 
 ![Profile View](https://komarev.com/ghpvc/?username=Ftarganski&color=brightgreen&style=flat) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fftarganski1212%2Fhit-counter) ![License](https://img.shields.io/github/license/Ftarganski/github-profile-views-counter.svg?style=flat&color=brightgreen)
 
+[![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/master?label=Last%20Updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
+
+
 ## Hey Folks! 👋                                
 
 On the way to completing my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.

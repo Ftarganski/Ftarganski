@@ -26,7 +26,7 @@ If you are ready to work with a talented team player, please contact me 💬.
 ![](node.svg)
 
 ## Contact
-[![](linkedin2.svg)](https://www.linkedin.com/in/targanski) [![](behance2.svg)](https://www.behance.net/ftarganski) [![](whatsapp2.svg)](https://api.whatsapp.com/send?phone=5548988222992) [![](email2.svg)](mailto:francis@targanski.com)
+[![](linkedin2.svg)](https://www.linkedin.com/in/targanski) [![](behance2.svg)](https://www.behance.net/ftarganski) [![](whatsapp2.svg)](https://api.whatsapp.com/send?phone=5548988222992)
 
 ##
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ftarganski&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ftarganski&layout=compact&langs_count=6&theme=react)

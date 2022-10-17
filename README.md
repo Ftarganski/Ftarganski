@@ -3,7 +3,7 @@
 
 ## Hey Folks! 👋                                
 
-On the way to completing my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.
+On the way to receive my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.
 
 In my professional career, I worked both in project management positions and in people management positions, having achieved relevant results for the companies I worked for.
 

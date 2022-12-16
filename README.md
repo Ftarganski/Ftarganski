@@ -3,15 +3,11 @@
 
 ## Hey Folks! 👋                                
 
-On the way to receive my Postgraduate Degree as a Full Stack Web Developer, with a degree in Architecture and Urbanism, I have more than ten years of experience in multinational companies, with a strong knowledge of corporate culture.
+Father, traveler and entrepreneur, I work as a Junior Full Stack Web Developer, and I have a degree in Architecture and Urbanism, with more than ten years of experience in the technical, design and customer relationship areas.
 
-In my professional career, I worked both in project management positions and in people management positions, having achieved relevant results for the companies I worked for.
+I have worked in both technical and management positions, having achieved relevant results for companies in both, where I applied my skills focused on problem solving, organization, communication and focus on results.
 
-My technical training and professional experience qualify me to understand the nuances and responsibilities that the IT world requires. Added to this is my personal experience as a father, traveler and entrepreneur, moments in life in which I acquired knowledge that is not taught in the chair, knowledge of rare value.
-
-The main differentiator at any company is it’s employees. Most importantly it takes team players who can thrive, function and excel in a global market. I have these qualities.
-
-I am looking for new job opportunities where I can more dynamically explore the knowledge acquired in recent years. I am always ready for new challenges, working with flexibility and enthusiasm.
+I am looking for job opportunities as a Web Developer.
 
 ```
 If you are ready to work with a talented team player, please contact me 💬.

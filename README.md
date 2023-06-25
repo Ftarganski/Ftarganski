@@ -3,11 +3,11 @@
 
 ## Hey Folks! 👋                                
 
-Father, traveler and entrepreneur, I work as a Junior Full Stack Web Developer, and I have a degree in Architecture and Urbanism, with more than ten years of experience in the technical, design and customer relationship areas.
+Front-end developer with extensive technical experience in various languages such as JavaScript, TypeScript, React.js, Next.js, and others. I developed the launch landing page for the Flubi.co system using Next.js and TypeScript. I founded and currently serve as the CEO of Madeira Maestra, a company that combines artisanal toys with cutting-edge technology and sustainable materials.
 
-I have worked in both technical and management positions, having achieved relevant results for companies in both, where I applied my skills focused on problem solving, organization, communication and focus on results.
+As a father, cyclist, and traveler, I possess a versatile nature and an entrepreneurial spirit. I highly value problem-solving and organization, ensuring the efficiency of projects. I possess strong design skills and strive to strike a balance between functionality and aesthetics in all my creations. With effective communication and a results-driven mindset, I consistently aim to overcome challenges and achieve goals.
 
-I am looking for job opportunities as a Web Developer.
+I hold a Bachelor's degree in Architecture and Urbanism from UFRGS and have specialized in Full Stack Web Development at Instituto Infnet. This academic background, combined with my practical experience, enables me to create innovative and efficient solutions within the technology field.
 
 ```
 If you are ready to work with a talented team player, please contact me 💬.

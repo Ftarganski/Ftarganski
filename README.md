@@ -17,6 +17,8 @@ If you are ready to work with a talented team player, please contact me 💬.
 ![](html.svg)
 ![](css.svg)
 ![](javascript.svg)
+![](typescript.svg)
+![](next.svg)
 ![](bootstrap.svg)
 ![](react.svg)
 ![](node.svg)

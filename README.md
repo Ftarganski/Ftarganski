@@ -25,7 +25,7 @@ If you are ready to work with a talented team player, please contact me 💬.
 ## Contact
 [![](linkedin2.svg)](https://www.linkedin.com/in/targanski) [![](behance2.svg)](https://www.behance.net/ftarganski) [![](whatsapp2.svg)](https://api.whatsapp.com/send?phone=5548988222992)
 
-## GitHub and GitLab
+## GitHub and GitLab / 2023
 ![](https://wakatime.com/share/@ftarganski/597b888a-9778-43d3-81ca-b737a2553aef.svg)
 
 ##

@@ -38,8 +38,9 @@ If you are ready to work with a talented team player, please contact me 💬.
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="35px" height="35px"></a>
 
 ## Contact
-<a href="https://www.linkedin.com/in/targanski" title="Linkedin"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Linkedin"  width="35px" height="35px"></a>
-<a href="https://api.whatsapp.com/send?phone=5548988222992" title="Whatsapp"><img src="https://github.com/get-icon/geticon/blob/master/icons/whatsapp.svg" alt="Whatsapp" width="35px" height="35px"></a>
+<a href="https://www.linkedin.com/in/targanski" title="Linkedin" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Linkedin"  width="35px" height="35px"></a>
+<a href="https://api.whatsapp.com/send?phone=5548988222992" title="Whatsapp" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/whatsapp.svg" alt="Whatsapp" width="35px" height="35px"></a>
+<a href="https://www.buymeacoffee.com/ftarganski"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ftarganski&button_colour=357da1&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" height="35px"/></a>
 
 [![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true&color=357da1)](https://github.com/ftarganski/github-readme-activity-graph)
 

@@ -41,12 +41,6 @@ If you are ready to work with a talented team player, please contact me 💬.
 <a href="https://www.linkedin.com/in/targanski" title="Linkedin"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Linkedin"  width="35px" height="35px"></a>
 <a href="https://api.whatsapp.com/send?phone=5548988222992" title="Whatsapp"><img src="https://github.com/get-icon/geticon/blob/master/icons/whatsapp.svg" alt="Whatsapp" width="35px" height="35px"></a>
 
-<!--
-## GitHub and GitLab / 2023
-![](https://wakatime.com/share/@ftarganski/597b888a-9778-43d3-81ca-b737a2553aef.svg)
- -->
-
-##
 [![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true&color=357da1)](https://github.com/ftarganski/github-readme-activity-graph)
 
 <!--
@@ -69,4 +63,9 @@ Ideias:
 ![Codecov](https://codecov.io/gh/ftarganski/github-readme-stats/branch/master/graph/badge.svg)
 ![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/master?label=Last%20Updated&style=flat)
 
+ -->
+
+<!--
+## GitHub and GitLab / 2023
+![](https://wakatime.com/share/@ftarganski/597b888a-9778-43d3-81ca-b737a2553aef.svg)
  -->

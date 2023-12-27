@@ -47,9 +47,7 @@ If you are ready to work with a talented team player, please contact me 💬.
  -->
 
 ##
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ftarganski&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ftarganski&layout=compact&langs_count=6&theme=react)
-
-[![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true)](https://github.com/ftarganski/github-readme-activity-graph)
+[![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true&color=357da1)](https://github.com/ftarganski/github-readme-activity-graph)
 
 <!--
 Here are some ideas to get you started:
@@ -63,6 +61,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Ideias:
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ftarganski&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ftarganski&layout=compact&langs_count=6&theme=react)
+
 ![teste](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftarganski)
 ![Issues](https://img.shields.io/github/issues-pr/ftarganski/github-readme-stats?color=0088ff)
 ![Issues](https://img.shields.io/github/issues/ftarganski/github-readme-stats?color=0088ff)

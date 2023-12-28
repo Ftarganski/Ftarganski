@@ -9,7 +9,7 @@ As a father, cyclist, and traveler, I possess a versatile nature and an entrepre
 I hold a Bachelor's degree in Architecture and Urbanism from UFRGS and have specialized in Full Stack Web Development at Instituto Infnet. This academic background, combined with my practical experience, enables me to create innovative and efficient solutions within the technology field.
 
 ```
-If you are ready to work with a talented team player, please contact me 💬.
+If you are ready to work with a talented team player, please contact me 💬. 
 ```
 
 ## My Toolbox

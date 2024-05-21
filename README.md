@@ -2,11 +2,11 @@
 
 ## Hey Folks! 👋      
 
-Front-end developer with extensive technical experience in various languages such as JavaScript, TypeScript, React.js, Next.js, and others. I developed the launch landing page for the Flubi.co system using Next.js and TypeScript. I founded and currently serve as the CEO of Madeira Maestra, a company that combines artisanal toys with cutting-edge technology and sustainable materials.
+Front-end wizard here, juggling with languages like JavaScript, TypeScript, React.js, Next.js, and more. Yep, I'm the guy who whipped up that slick launch landing page for Flubi.co using Next.js and TypeScript.
 
-As a father, cyclist, and traveler, I possess a versatile nature and an entrepreneurial spirit. I highly value problem-solving and organization, ensuring the efficiency of projects. I possess strong design skills and strive to strike a balance between functionality and aesthetics in all my creations. With effective communication and a results-driven mindset, I consistently aim to overcome challenges and achieve goals.
+When I'm not coding, you'll find me in dad mode, hitting the trails on my bike, or exploring new places. I'm all about that versatility and hustle – it's in my DNA. Solving problems and keeping things organized? You betcha, that's my jam. Plus, I've got an eye for design, always aiming for that sweet spot where functionality meets good looks.
 
-I hold a Bachelor's degree in Architecture and Urbanism from UFRGS and have specialized in Full Stack Web Development at Instituto Infnet. This academic background, combined with my practical experience, enables me to create innovative and efficient solutions within the technology field.
+With a Bachelor's in Architecture and Urbanism from UFRGS and some serious Full Stack Web Development chops from Instituto Infnet, I've got the academic cred and hands-on experience to cook up some seriously cool tech solutions. Let's chat – I'm all about making things happen.
 
 ```
 If you are ready to work with a talented team player, please contact me 💬. 

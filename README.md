@@ -2,13 +2,15 @@
 
 ## Hey Folks! 👋      
 
-Front-end wizard here, juggling with languages like JavaScript, TypeScript, React.js, Next.js, and more. Yep, I'm the guy who whipped up that slick launch landing page for Flubi.co using Next.js and TypeScript.
+👨‍💻 Front-end magician at work! 🪄 Transforming coffee into clean, scalable code with JavaScript, TypeScript, React.js, and Next.js. I also dabble in the wild world of Web3 and Solidity, adding a bit of blockchain flair to my skill set. HTML and CSS? Yeah, I speak that fluently too.
 
-When I'm not coding, you'll find me in dad mode, hitting the trails on my bike, or exploring new places. I'm all about that versatility and hustle – it's in my DNA. Solving problems and keeping things organized? You betcha, that's my jam. Plus, I've got an eye for design, always aiming for that sweet spot where functionality meets good looks.
+I've built everything from dynamic front-end experiences to full-blown multi-channel conversation systems. Whether it's a responsive UI, a scalable Web3 app, or optimizing user interactions, I’m all about solving real-world problems and keeping code as clean as my bike chain after a ride. 🚴‍♂️
 
-With a Bachelor's in Architecture and Urbanism from UFRGS and some serious Full Stack Web Development chops from Instituto Infnet, I've got the academic cred and hands-on experience to cook up some seriously cool tech solutions. Let's chat – I'm all about making things happen.
+When I'm not coding or diving into Web3, you’ll probably find me exploring new places or hitting the trails on my bike. But even then, I'm always thinking of the next UI component or the perfect CSS grid layout.
 
-```
+Armed with a Bachelor's in Architecture and Urbanism from UFRGS and some hardcore Full Stack Web Development training from Instituto Infnet, I've got the brainpower and the hands-on chops to build sleek, functional tech solutions. Hit me up, and let’s turn ideas into reality (or at least a sweet PR).
+
+```bash
 If you are ready to work with a talented team player, please contact me 💬. 
 ```
 
@@ -16,35 +18,24 @@ If you are ready to work with a talented team player, please contact me 💬.
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="35px" height="35px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="35px" height="35px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="35px" height="35px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="35px" height="35px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="35px" height="35px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="35px" height="35px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="35px" height="35px"></a>
-<a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="35px" height="35px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="35px" height="35px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="35px" height="35px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="35px" height="35px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="35px" height="35px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="35px" height="35px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="35px" height="35px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="35px" height="35px"></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="35px" height="35px"></a>
-<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="35px" height="35px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="35px" height="35px"></a>
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="35px" height="35px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="35px" height="35px"></a>
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="35px" height="35px"></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="35px" height="35px"></a>
-<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="35px" height="35px"></a>
 
 ## Contact
 <a href="https://www.linkedin.com/in/targanski" title="Linkedin" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Linkedin"  width="35px" height="35px"></a>
 <a href="https://api.whatsapp.com/send?phone=5548988222992" title="Whatsapp" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/whatsapp.svg" alt="Whatsapp" width="35px" height="35px"></a>
-<a href="https://www.buymeacoffee.com/ftarganski"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ftarganski&button_colour=357da1&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" height="35px"/></a>
-
-[![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true&color=357da1)](https://github.com/ftarganski/github-readme-activity-graph)
 
 <!--
+<a href="https://www.buymeacoffee.com/ftarganski"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ftarganski&button_colour=357da1&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" height="35px"/></a>
+[![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true&color=357da1)](https://github.com/ftarganski/github-readme-activity-graph)
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

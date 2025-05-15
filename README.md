@@ -2,17 +2,17 @@
 
 ## Hey Folks! 👋      
 
-👨‍💻 Front-end magician at work! 🪄 Transforming coffee into clean, scalable code with JavaScript, TypeScript, React.js, and Next.js. I also dabble in the wild world of Web3 and Solidity, adding a bit of blockchain flair to my skill set. HTML and CSS? Yeah, I speak that fluently too.
+👨‍💻 Turning coffee into code and bugs into features.
 
-I've built everything from dynamic front-end experiences to full-blown multi-channel conversation systems. Whether it's a responsive UI, a scalable Web3 app, or optimizing user interactions, I’m all about solving real-world problems and keeping code as clean as my bike chain after a ride. 🚴‍♂️
+I mostly work with React, TypeScript, and Next.js — occasionally venturing into the Web3 jungle with Solidity when I’m feeling brave. I speak fluent HTML and CSS, and have a love-hate relationship with linters.
 
-When I'm not coding or diving into Web3, you’ll probably find me exploring new places or hitting the trails on my bike. But even then, I'm always thinking of the next UI component or the perfect CSS grid layout.
+You won’t find much in my repos — not because I don’t code, but because I spend most of my time writing software that actually pays. Side projects? Sure… they’re all running locally and very profitable (in theory).
 
-Armed with a Bachelor's in Architecture and Urbanism from UFRGS and some hardcore Full Stack Web Development training from Instituto Infnet, I've got the brainpower and the hands-on chops to build sleek, functional tech solutions. Hit me up, and let’s turn ideas into reality (or at least a sweet PR).
+I’ve built everything from polished UIs to full-blown multi-channel chat systems. I have a Bachelor’s in Architecture and Urbanism (used to design buildings, now I design divs) and an MBA in Artificial Intelligence — which means I can explain why your AI isn’t working… or at least pretend convincingly.
 
-```bash
-If you are ready to work with a talented team player, please contact me 💬. 
-```
+When I’m not coding, I’m staring at my aquarium. It’s full of fish that don’t throw exceptions, don’t break in production, and somehow still manage to be more organized than most codebases. Truly inspirational.
+
+Let’s build something cool — or at least ship it before the deadline and hope for the best.
 
 ## My Toolbox
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="35px" height="35px"></a>
@@ -31,33 +31,3 @@ If you are ready to work with a talented team player, please contact me 💬.
 ## Contact
 <a href="https://www.linkedin.com/in/targanski" title="Linkedin" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="Linkedin"  width="35px" height="35px"></a>
 <a href="https://api.whatsapp.com/send?phone=5548988222992" title="Whatsapp" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/whatsapp.svg" alt="Whatsapp" width="35px" height="35px"></a>
-
-<!--
-<a href="https://www.buymeacoffee.com/ftarganski"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ftarganski&button_colour=357da1&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" height="35px"/></a>
-[![Francis Targanski](https://github-readme-activity-graph.vercel.app/graph?username=ftarganski&theme=react&bg_color=transparent&custom&hide_title=true&hide_border=true&color=357da1)](https://github.com/ftarganski/github-readme-activity-graph)
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Ideias:
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ftarganski&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ftarganski&layout=compact&langs_count=6&theme=react)
-
-![teste](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftarganski)
-![Issues](https://img.shields.io/github/issues-pr/ftarganski/github-readme-stats?color=0088ff)
-![Issues](https://img.shields.io/github/issues/ftarganski/github-readme-stats?color=0088ff)
-![Codecov](https://codecov.io/gh/ftarganski/github-readme-stats/branch/master/graph/badge.svg)
-![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/master?label=Last%20Updated&style=flat)
-
- -->
-
-<!--
-## GitHub and GitLab / 2023
-![](https://wakatime.com/share/@ftarganski/597b888a-9778-43d3-81ca-b737a2553aef.svg)
- -->

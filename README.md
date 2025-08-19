@@ -1,4 +1,4 @@
-![Profile View](https://komarev.com/ghpvc/?username=Ftarganski&color=brightgreen&style=flat) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fftarganski1212%2Fhit-counter) [![wakatime](https://wakatime.com/badge/user/92166b18-0974-4450-9409-b45e11abfbce.svg)](https://wakatime.com/@92166b18-0974-4450-9409-b45e11abfbce) ![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/main?label=Last%20Updated&style=flat)
+![Profile View](https://komarev.com/ghpvc/?username=Ftarganski&color=brightgreen&style=flat) [![wakatime](https://wakatime.com/badge/user/92166b18-0974-4450-9409-b45e11abfbce.svg)](https://wakatime.com/@92166b18-0974-4450-9409-b45e11abfbce) ![Profile last updated](https://img.shields.io/github/last-commit/ftarganski/ftarganski/main?label=Last%20Updated&style=flat)
 
 ## Hey Folks! 👋      
 

@@ -4,15 +4,17 @@
 
 👨‍💻 Turning coffee into code and bugs into features.
 
-I mostly work with React, TypeScript, and Next.js — occasionally venturing into the Web3 jungle with Solidity when I’m feeling brave. I speak fluent HTML and CSS, and have a love-hate relationship with linters.
+I mostly work with React, TypeScript, and Next.js, occasionally venturing into the Web3 jungle with Solidity when I’m feeling brave. I speak fluent HTML and CSS, and have a love-hate relationship with linters.
 
-You won’t find much in my repos — not because I don’t code, but because I spend most of my time writing software that actually pays. Side projects? Sure… they’re all running locally and very profitable (in theory).
+You won’t find much in my repos, not because I don’t code, but because I spend most of my time writing software that actually pays. Side projects? Sure… they’re all running locally and very profitable (in theory).
 
-I’ve built everything from polished UIs to full-blown multi-channel chat systems. I have a Bachelor’s in Architecture and Urbanism (used to design buildings, now I design divs) and an MBA in Artificial Intelligence — which means I can explain why your AI isn’t working… or at least pretend convincingly.
+I’ve built everything from polished UIs to full-blown multi-channel chat systems. I have a Bachelor’s in Architecture and Urbanism (used to design buildings, now I design divs) and an MBA in Artificial Intelligence, which means I can explain why your AI isn’t working… or at least pretend convincingly.
 
 When I’m not coding, I’m staring at my aquarium. It’s full of fish that don’t throw exceptions, don’t break in production, and somehow still manage to be more organized than most codebases. Truly inspirational.
 
-Let’s build something cool — or at least ship it before the deadline and hope for the best.
+💡 Oh, and if you enjoy reading some (sometimes useful) dev thoughts, check out my corner on [Dev.to](https://dev.to/targanski), a place where I mix software development with a touch of classical philosophy, kind of like a blog but with less ranting and more coffee. ☕🚀
+
+Let’s build something cool, or at least ship it before the deadline and hope for the best.
 
 ## My Toolbox
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="35px" height="35px"></a>
